@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\Birthday\\Birthday.csproj": {}
+    "C:\\Users\\Fair\\BirthdayCalculator\\Birthday\\Birthday.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\Birthday\\Birthday.csproj": {
+    "C:\\Users\\Fair\\BirthdayCalculator\\Birthday\\Birthday.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\Birthday\\Birthday.csproj",
+        "projectUniqueName": "C:\\Users\\Fair\\BirthdayCalculator\\Birthday\\Birthday.csproj",
         "projectName": "Birthday",
-        "projectPath": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\Birthday\\Birthday.csproj",
+        "projectPath": "C:\\Users\\Fair\\BirthdayCalculator\\Birthday\\Birthday.csproj",
         "packagesPath": "C:\\Users\\Fair\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\Birthday\\obj\\",
+        "outputPath": "C:\\Users\\Fair\\BirthdayCalculator\\Birthday\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

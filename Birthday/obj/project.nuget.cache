@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0D/U1Z5koBlonImA5Oja++gOAPN4RuMRRsYvNf0Jxx/qVmSqN1bgANRA6Aqk1nb0Vc6ycnAaWjLSplxaUVVFpA==",
+  "dgSpecHash": "XceVzsLiJzPzbgiYfOjCuxk3hR2xty/qtBwt8NWz/LaE0XlDGKfpsTi9wKnM7o3+UOksY6uu5kHZWSAE/w1GCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fair\\Documents\\Hovedforløb\\H1\\C#\\Birthday\\Birthday.csproj",
+  "projectFilePath": "C:\\Users\\Fair\\BirthdayCalculator\\Birthday\\Birthday.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
