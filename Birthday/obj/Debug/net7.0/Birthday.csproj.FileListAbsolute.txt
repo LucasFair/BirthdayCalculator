@@ -1,0 +1,15 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\Birthday.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\Birthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\Birthday.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\Birthday.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\Birthday.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\bin\Debug\net7.0\Birthday.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\bin\Debug\net7.0\Birthday.deps.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\bin\Debug\net7.0\Birthday.runtimeconfig.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\bin\Debug\net7.0\Birthday.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\bin\Debug\net7.0\Birthday.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\Birthday.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\refint\Birthday.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\Birthday.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\Birthday.genruntimeconfig.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\Birthday\obj\Debug\net7.0\ref\Birthday.dll
